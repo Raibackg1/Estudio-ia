@@ -1,0 +1,6 @@
+{
+  "name": "TutorAI",
+  "description": "Asistente personal tutor para estudiantes con voz interactiva, videollamada, lector de PDF con resaltado inteligente, notas offline, solucionador paso a paso y herramientas de estudio avanzadas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
